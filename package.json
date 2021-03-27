@@ -1,0 +1,11 @@
+{
+  "name": "ninhvi",
+  "version": "1.0.0",
+  "description": "viet gi cung duoc",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "vi ninh",
+  "license": "ISC"
+}
